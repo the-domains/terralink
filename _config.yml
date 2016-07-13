@@ -1,0 +1,14 @@
+layout_spectrum: 0.5009160842746496
+typography_spectrum: 0.5422901490237564
+color:
+  brandStrength: 0.4841509209945798
+  lightness: 0.3037047884427011
+  saturation: 0.7662847773171961
+  rhythmicContrast: 0.13227957510389388
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+name: Terralink
